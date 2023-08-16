@@ -6,8 +6,6 @@ import 'package:flutter/material.dart';
 class HoldPressButton extends StatefulWidget {
   String? contents;
   final Color? backgroundColor;
-  final VoidCallback? onPressed;
-  final bool? isLoading;
   final double? textSize;
   final int pressTime;
   final Color? fontColor;
@@ -17,9 +15,7 @@ class HoldPressButton extends StatefulWidget {
   HoldPressButton({
     required this.pressTime,
     this.contents,
-    this.onPressed,
     this.backgroundColor,
-    this.isLoading,
     this.textSize,
     this.fontColor,
     this.textWeight,
