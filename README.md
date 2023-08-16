@@ -81,5 +81,5 @@ Now in your Dart code, you can use:
 import 'package:long_hold_down_press_button/hold_down_press_button.dart';
 ```
 ## ScreenShot
-![화면 기록 2023-08-16 오후 11 18 25](https://github.com/Myeongcheol-shin/hold_down_press_button/assets/82868004/5622f769-8664-4378-ab7c-1cd1b776d74a)
+![화면 기록 2023-08-16 오후 11 18 25](https://github.com/Myeongcheol-shin/hold_down_press_button/assets/82868004/80f14723-5743-4a3b-a374-18cd9cd7e11b)
 
