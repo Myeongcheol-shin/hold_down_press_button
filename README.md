@@ -55,7 +55,31 @@ class _MyAppState extends State<MyApp> {
 |textWeight|text Weight|Weight.normal|
 |backgroundColor|button background|Colors.amber|
 
+## Use this package as a library
+Depend on it
+Run this command:
 
+With Dart:
+```
+ $ dart pub add long_hold_down_press_button
+```
+With Flutter:
+```
+ $ flutter pub add long_hold_down_press_button
+```
+This will add a line like this to your package's pubspec.yaml (and run an implicit dart pub get):
+
+dependencies:
+```
+  long_hold_down_press_button: ^0.0.1
+```
+Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
+
+Import it
+Now in your Dart code, you can use:
+```
+import 'package:long_hold_down_press_button/hold_down_press_button.dart';
+```
 ## ScreenShot
-![Screenshot_1692193713](https://github.com/Myeongcheol-shin/hold_down_press_button/assets/82868004/f2aa523a-6a9e-491e-bc79-50ca1c126084)
-![Screenshot_1692193715](https://github.com/Myeongcheol-shin/hold_down_press_button/assets/82868004/7250dfc1-1df9-48fd-a92e-837573485b38)
+![화면 기록 2023-08-16 오후 11 18 25](https://github.com/Myeongcheol-shin/hold_down_press_button/assets/82868004/5622f769-8664-4378-ab7c-1cd1b776d74a)
+
